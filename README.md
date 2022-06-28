@@ -18,12 +18,12 @@ The solution was created with HTML and CSS/SASS with the goal of practicing SASS
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ymoretto/frontend-mentor-challenge-qr-code)
-- Live Site URL: [Add live site URL here](https://ymoretto.github.io/frontend-mentor-challenge-qr-code/)
+- [Solution URL](https://github.com/ymoretto/frontend-mentor-challenge-qr-code)
+- [Live Site URL](https://ymoretto.github.io/frontend-mentor-challenge-qr-code/)
 
 ### Built with
 
